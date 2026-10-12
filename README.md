@@ -1,31 +1,12 @@
-<div align="center">
+# free-ai-resources-x
 
+## What This Is
 
-# Free AI Learning Resources X
+Every project needs a shelf of ready answers. product and engineering is one of those shelves, and free-ai-resources-x is the entry on it - the notes, patterns and fixes we reuse when this kind of work comes up.
 
 ## Images
 
-[![free-ai-resources-x](https://opengraph.githubassets.com/1/CelaDaniel/free-ai-resources-x)](https://www.swifttechco.com)
-
-
-### Your open source gateway to mastering AI completely free, forever.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://www.swifttechco.com)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/celadaniel/free-ai-resources-x?style=flat-square)](https://www.swifttechco.com)
-
-[![GitHub followers](https://img.shields.io/github/followers/celadaniel?label=Follow&style=flat-square&logo=github)](https://www.swifttechco.com)
-[![Website](https://img.shields.io/badge/Website-danielcela.com-1a1a1a?style=flat-square&logo=google-chrome&logoColor=white)](https://www.swifttechco.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.swifttechco.com)
-
-**411+ hand picked resources** · **30 specialized categories** · **100% free** · **Community driven**
-
-[Start Learning](#-pick-your-path) · [Browse All Categories](#-all-categories) · [Contribute](CONTRIBUTING.md)
-
----
-
-</div>
+[![free-ai-resources-x](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Why This Repository?
 
@@ -231,14 +212,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [CelaDaniel/free-ai-resources-x](https://github.com/CelaDaniel/free-ai-resources-x) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
